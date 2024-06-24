@@ -1,6 +1,7 @@
 body {
-  margin: 8px;
+  margin: 5px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background:whitesmoke;
 }
 #hero {
   padding-top: 200px;
@@ -92,4 +93,8 @@ body {
 
    .italics{
     font-style: italic;
+   }
+   .underline{
+    padding-bottom: 2px;
+       border-bottom: 2px solid whitesmoke;
    }
